@@ -32,6 +32,8 @@ const Chessboard = () => {
               (square) => square.row === row && square.col === col
             )}
             onMouseEnter={() => handleSquareHover(row, col)}
+            row={row}
+            col={col}
           />
         ))
       )}
