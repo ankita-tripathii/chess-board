@@ -7,7 +7,7 @@ A simple React application that displays a chessboard and highlights squares bas
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/dBNGWZC/job-board.png)
+![App Screenshot](https://i.ibb.co/PxzfFRM/chess-board.png)
 
 
 ## Getting Started
